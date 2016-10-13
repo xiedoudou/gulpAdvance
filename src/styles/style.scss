@@ -1,0 +1,16 @@
+$base-color:black;
+$liFontSize:12px;
+
+body{
+  color: $base-color;
+  font-size:$liFontSize;
+}
+
+
+
+ul{
+
+	li{
+		font-size:$liFontSize;
+	}
+}
